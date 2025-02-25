@@ -33,7 +33,7 @@ https://beecrowd.com/blog-posts/the-most-popular-languages-for-game-developers/#
 
 <p>
 <img 
-      align="left" 
+      align="right" 
       alt="Statistics" 
       height="135px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brzRaven01001&theme=shadow_red&layout=compact&custom_title=Statistics&langs_count=9" 
