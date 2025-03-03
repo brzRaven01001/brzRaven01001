@@ -31,12 +31,12 @@ https://beecrowd.com/blog-posts/the-most-popular-languages-for-game-developers/#
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
-<p>
-<img 
-      align="right" 
-      alt="Statistics" 
-      height="135px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brzRaven01001&theme=shadow_red&layout=compact&custom_title=Statistics&langs_count=9" 
-  />
+<br><br>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=brzRaven01001&show_icons=true&theme=radical" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brzRaven01001&layout=compact&theme=radical" />
 </p>
+
