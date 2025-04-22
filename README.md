@@ -48,8 +48,8 @@ https://beecrowd.com/blog-posts/the-most-popular-languages-for-game-developers/#
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=brzRaven01001&show_icons=true&theme=radical" />
-   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brzRaven01001&layout=compact&theme=radical" />
-</p>
+<div align="center">
+   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=brzRaven01001&show_icons=true&theme=radical" />
+   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brzRaven01001&layout=compact&theme=radical" />
+</div>
 
