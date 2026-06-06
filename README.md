@@ -19,7 +19,7 @@
 ║                                                          ║
 ║    Murilo Leone Fernandes                                ║
 ║    alias: brzRaven01001                                  ║
-║    role:  Software Developer                             ║
+║    role:  Software / Game Dev                            ║
 ║    loc:   Brazil                                         ║
 ║                                                          ║
 ║                                                          ║
