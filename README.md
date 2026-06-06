@@ -19,7 +19,7 @@
 ║                                                          ║
 ║    Murilo Leone Fernandes                                ║
 ║    alias: brzRaven01001                                  ║
-║    role:  Software / Game Dev                            ║
+║    role:  Software Developer                             ║
 ║    loc:   Brazil                                         ║
 ║                                                          ║
 ║                                                          ║
@@ -37,10 +37,10 @@ class Developer:
     name       = "Murilo Leone Fernandes"
     alias      = "brzRaven01001"
     focus      = ["Systems Programming", "Backend", "Game Development"]
-    interests  = ["Low-level computing", "Linux", "Game Dev", "Cloud" "Gaming", "Anime"]
+    interests  = ["Low-level computing", "Linux", "Game Dev", "Cloud","Gaming", "Anime"]
     status     = "always learning // always building"
     os         = ["Arch Linux", "Kali Linux", "Ubuntu"]
-    college    = ["Completed"]
+    college    = "Completed"
 ```
 
 > _"No matter where you are, everyone is connected."_ — **Lain Iwakura**
@@ -102,11 +102,11 @@ class Developer:
 
 <img src="https://streak-stats.demolab.com/?user=brzRaven01001&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c0c0c0" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brzRaven01001&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brzRaven01001&theme=github_dark" width="38%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brzRaven01001&theme=github_dark" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brzRaven01001&theme=github_dark" width="30%" />
 
 </div>
 
@@ -115,7 +115,7 @@ class Developer:
 ## `> ls ./projects`
 
 ```
-// Upcoming Projects — building in the dark...
+// Upcoming projects — building in the dark...
 // [ ] project_01 — ???
 // [ ] project_02 — ???
 ```
