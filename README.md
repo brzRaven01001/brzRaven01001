@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Lain header gif -->
-<img src="./assets/lain-iwakura-sel.gif" width="200px" alt="Lain Iwakura"/>
+<img src="./assets/lain-iwakura-sel.gif" width="320px" alt="Lain Iwakura"/>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 ║    role:  Software / Game Dev                            ║
 ║    loc:   Brazil                                         ║
 ║                                                          ║
-║  > No matter where you go, everyone is connected.        ║
+║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -37,9 +37,10 @@ class Developer:
     name       = "Murilo Leone Fernandes"
     alias      = "brzRaven01001"
     focus      = ["Systems Programming", "Backend", "Game Development"]
-    interests  = ["Low-level computing", "Linux", "Game Dev", "Cloud"]
+    interests  = ["Low-level computing", "Linux", "Game Dev", "Cloud" "Gaming", "Anime"]
     status     = "always learning // always building"
     os         = ["Arch Linux", "Kali Linux", "Ubuntu"]
+    college    = ["Completed"]
 ```
 
 > _"No matter where you are, everyone is connected."_ — **Lain Iwakura**
@@ -99,13 +100,13 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brzRaven01001&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c0c0c0" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=brzRaven01001&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c0c0c0" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brzRaven01001&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brzRaven01001&theme=github_dark" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brzRaven01001&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c0c0c0" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brzRaven01001&theme=github_dark" width="40%" />
 
 </div>
 
@@ -114,12 +115,12 @@ class Developer:
 ## `> ls ./projects`
 
 ```
-// Projetos em breve — building in the dark...
+// Upcoming Projects — building in the dark...
 // [ ] project_01 — ???
 // [ ] project_02 — ???
 ```
 
-> _Este bloco será atualizado em breve. Fique conectado._
+> _This section will be updated soon._
 
 ---
 
@@ -127,8 +128,8 @@ class Developer:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mu-fernandes/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilogamerbr72@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brzRaven01001)
 [![Discord](https://img.shields.io/badge/Discord-brzraven-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/brzraven)
 
@@ -141,7 +142,7 @@ class Developer:
 <br/>
 
 <!-- Lain closing gif -->
-<img src="./assets/it's-over-lain.gif" width="220px" alt="Lain — The Wired"/>
+<img src="./assets/it's-over-lain.gif" width="320px" alt="Lain — It's Lainover"/>
 
 <br/>
 
